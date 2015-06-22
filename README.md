@@ -2,12 +2,12 @@
 Quick utility for dumping useful information from a Neverwinter Nights 2 .bic file.
 
 
-# Usage
+## Usage
 ```
 CharDump.exe <path to .bic file>
 ```
 
-# Features
+## Features
 The current data is supported:
 
 * Character basics:
@@ -21,14 +21,13 @@ The current data is supported:
 	* Feats gained.
 	* Spells learned.
 
-# Output
+## Output
 The application creates an output that looks like:
 ```
 Name: Bob
 Abilities: 13 STR, 18 DEX, 10 CON, 14 INT, 12 WIS, 12 CHA
 Saves: 11 FORT, 17 REFL, 7 WILL
-Feats: 3 10 27 32 40 42 45 46 50 199 206 258 275 285 289 382 1103 1116 1387 1721 1730 1731 1732 1773 1774 1857 2137 2141
- 3500 3501 3569 3618 3668 3740
+Feats: 3 10 27 32 40 42 45 46 50 199 206 258 275 285 289 382 1103 1116 1387 1721 1730 1731 1732 1773 1774 1857 2137 2141 3500 3501 3569 3618 3668 3740
 
 Level Ups:
   Level 1:
